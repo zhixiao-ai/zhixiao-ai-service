@@ -7,6 +7,6 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <artifactId>zx-commons</artifactId>
-    <name>Archetype - zx-commons</name>
+    <name>zx-commons</name>
     <url>http://maven.apache.org</url>
 </project>
